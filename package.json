@@ -1,0 +1,11 @@
+{
+  "name": "reject",
+  "description": "object/array reject",
+  "version": "0.0.1",
+  "dependencies": {
+    "type-component": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
